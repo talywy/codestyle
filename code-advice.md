@@ -2,7 +2,7 @@
 ===
 
 # 1.引言
-此文档用以说明日常开发中的一些编码相关的建议。
+此文档用以说明日常开发中的一些编码相关的建议。 
 
 # 2. 代码中的坏味道
 ## 2.1 方法的坏味道
@@ -45,13 +45,23 @@
 
 
 ## 5 推荐书籍
-《重构-改善既有代码的设计》
-![refactor](images/refactor.jpg?raw=true)
-https://book.douban.com/subject/4262627/
 
-《代码大全（第2版）》
-![code-complete-2](images/code-complete-2.jpg?raw=true)
-https://book.douban.com/subject/1477390/
+| 《重构-改善既有代码的设计》  |《代码大全（第2版）》|
+| ------------- | ------------- |
+| ![refactor](images/refactor.jpg?raw=true)  | ![code-complete-2](images/code-complete-2.jpg?raw=true) |
+| https://book.douban.com/subject/4262627/  | https://book.douban.com/subject/1477390/ |
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
