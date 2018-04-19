@@ -579,7 +579,7 @@ Tip：如果有一些相关信息是需要读者了解的，那么以上的例�
 
 1. UTF8编码设置
 2. 使用空白符代替制表符
-3. [checkstyle工具使用](/talywy/codestyle/tree/master/checkstyle)
+3. [checkstyle工具使用](checkstyle)
 
 ## 翻译参考:
 http://www.hawstein.com/posts/google-java-style.html
